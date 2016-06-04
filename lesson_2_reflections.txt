@@ -1,1 +1,3 @@
 git creates .git to track the files in the directory. I need it for versioning
+
+staging area insures an additional level of repository. Without it one must commit all changes to the repository
