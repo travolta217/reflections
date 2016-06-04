@@ -1,0 +1,14 @@
+it helped me to see typos easier the comparing the files manually
+
+I don't have to worry about old verisons of my code and i can concentrate on writing code. 
+
+pros: better orginized and understandable commit log. Easier to roll back a particular logical change without affecting other changes.
+cons: possibilty of forgetting to commit. Commits could be too big which could lead to a merge conflict
+
+those files have a logical connection
+
+withngit log i see the commit history and with git diff i can compare the commits ads see changes made
+
+one can easily roll back changes 
+
+??
