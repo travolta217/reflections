@@ -1,3 +1,13 @@
 git creates .git to track the files in the directory. I need it for versioning
 
 staging area insures an additional level of repository. Without it one must commit all changes to the repository
+
+i can add files seperately to the staging area
+
+i could make new versions of my programm using new branches and keep old ones untouched
+
+they show every branch as a line of commits(stars)
+
+the result is one single branch
+
+automatic merges saves time for obvious merges. Complicated ones can be done manually
