@@ -3,4 +3,8 @@ when there is other contributors or when i work in more then one place or just t
 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-pulling automatically would cause merge conflicts all the time when i work on same files which were changed by others. 
+pulling automatically would cause merge conflicts all the time when i work on same files which were changed by others.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks are repos on GitHub. Clones are copies of other repos on your computer. Branches are used for versioning or implementing of a feature in your clone.
